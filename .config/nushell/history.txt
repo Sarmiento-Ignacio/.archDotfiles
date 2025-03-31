@@ -1,0 +1,1036 @@
+la 
+ls -
+ls
+ls -a
+cd .config/
+ls -a
+cd nushell/
+ls -a
+nvim env.nu
+vim env.nu
+vim config.nu
+ls -a
+la -a
+ls -a
+clear
+ls -a
+mkdir files
+cd files
+git clone https://github.com/Sarmiento-Ignacio/.dotfiles_arch.git
+ls -a
+git config --global user.name "Ignacio Sarmiento"
+git config --global user.email sarmiento.delpozo.i@gmail.com
+git clone https://github.com/Sarmiento-Ignacio/.dotfiles_arch.git
+cd files
+git clone https://github.com/Sarmiento-Ignacio/.dotfiles_arch.git
+ssh-keygen -t rsa -b 4096 -C "sarmiento.delpozo.i@gmail.com"<\n>
+cd ..
+cd
+ssh-keygen -t rsa -b 4096 -C "sarmiento.delpozo.i@gmail.com"
+clear
+ssh-keygen -t ed25519 -C "sarmiento.delpozo.i@gmail.com"
+sudo pacman -S openssh
+ssh-keygen -t ed25519 -C "sarmiento.delpozo.i@gmail.com"
+cd files/
+git clone git@github.com:Sarmiento-Ignacio/.dotfiles_arch.git
+cd .dotfiles_arch/
+ls -a
+cd hypr
+ls -a
+cd ..
+ls -a
+cd .config/
+ls -a
+cd 
+ls -a
+cd .config/
+ls -a
+cd hypr/
+ls -a
+cd 
+cd files/
+cd .dotfiles_arch/
+cd hypr
+ls -a
+cd 
+mv ~/files/.dotfiles_arch/hypr ~/.config/hypr
+ls -a
+cd .config/
+ls -a
+cd hypr/
+ls-a
+ls -a
+mv hypr ~/.config
+rm hyprland.conf
+mv hypr ~/.config
+cd ..
+cd hypr/
+ls /a
+ls -a
+mv hypr ~/
+mv ~/.config/hypr ~/
+cd hypr/
+ls /a
+ls -a
+cd hypr/
+cd 
+cd files/
+ls /a
+ls -a
+cd .dotfiles_arch/
+ls /a
+ls -a
+cd ..
+cd 
+cd .config/
+rm hypr
+ls /a
+ls -a
+cd 
+cd files/.dotfiles_arch/
+ls -a
+cd .config/
+ls /a
+ls -a
+mv hypr ~/.config
+cd 
+cd .config/
+cd hypr/
+ls -a
+hyprctl reload
+clear
+ls -a
+reboot
+shutdown 
+z 
+cd .config/nushell/
+ls -a
+firefox
+curl -fsS https://dl.brave.com/install.sh | sh
+sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
+clear
+sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
+sudo pacman -S --needed git base-devel ; git clone https://aur.archlinux.org/yay.git ; cd yay ; makepkg -si
+ls -a
+cd ..
+rm -rf yay/
+ls -a
+cd ..
+cd
+sudo pacman -S --needed git base-devel ; git clone https://aur.archlinux.org/yay.git ; cd yay ; makepkg -si
+clear
+cd 
+yay -Sy brave-bin
+clear
+sudo pacman -R firefox
+clear
+cd files/.dotfiles_arch/
+ls -a
+curl -sS https://starship.rs/install.sh | sh
+$nu.config-path
+cd .config/nushell/
+ls -a
+vim config.nu
+cd 
+sudo pacman -S neovim
+nvim
+sudo pacman -S lazygit
+cd .config/nvim
+sudo pacman -S fzf
+sudo pacman -S fd
+# required<\n>mv ~/.config/nvim{,.bak}<\n><\n># optional but recommended<\n>mv ~/.local/share/nvim{,.bak}<\n>mv ~/.local/state/nvim{,.bak}<\n>mv ~/.cache/nvim{,.bak}
+nvim
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+rm -rf ~/.config/nvim/.git
+nvim
+cd
+cd files/.dotfiles_arch/
+ls -a
+cd .config/
+ls -a
+cd 
+ls -a
+cd .config/
+ls -a
+cd ..
+cd
+rm -rf ~/.config/nvim && mv ~/files/.dotfiles_arch/.config/nvim ~/.config
+rm -rf ~/.config/nvim ; mv ~/files/.dotfiles_arch/.config/nvim ~/.config
+cd .config/
+nvim
+cd
+cd
+sudo pacman -S nautilus
+clear
+sudo pacman -S rofi
+clear
+cd files/.dotfiles_arch/
+cd .config/
+ls -a
+cd rofi/
+ls -a
+nvim
+mv rofi ~/.config
+cd ..
+mv rofi ~/.config
+clear
+cd ..
+cd 
+ls -a
+sudo pacman -S xdg-user-dirs
+clear
+ls -a
+xdg-user-dirs-update
+ls -a
+mkdir ~/Documents/obsidian/Notes/templates
+cd ~/Documents/obsidian/Notes/templates
+cd ..
+clear
+nvim
+clea
+clear
+rebot
+reboot
+nvim
+node -v
+sudo pacman -S nodejs npm
+nvim
+cd files/.dotfiles_arch/
+nvim
+clear
+nvim
+clear
+cd
+sudo pacman -S hyprpaper
+clear
+hyprctl reload
+hyprctl hyprpaper reload
+cd Pictures/Wallpaper/
+ls -a
+cd
+systemctl --user enable --now hyprpaper.service
+systemctl --user start --now hyprpaper.service
+nvim
+reboot
+celar
+clear
+reboot
+nivm
+hyprpaper
+sudo pacman -S ninja gcc wayland-protocols libjpeg-turbo libwebp libjxl pango cairo pkgconf cmake libglvnd wayland hyprutils hyprwayland-scanner hyprlang
+hyprpaper
+killall hyprpaper
+hyprpaper
+killall hyprpaper
+hyprpaper
+killall hyprpaper
+hyprpaper
+killall hyprpaper
+hyprpaper
+reboot
+killall hyprpaper
+hyprpaper
+hyprpaper &
+hyprpaper &&
+hyprpaper &
+reboot
+nvim
+cd files/
+git clone git@github.com:Sarmiento-Ignacio/.dotfiles.git
+cd files/.dotfiles
+ls -a
+cd .dotfiles/
+nvim
+ls -a
+right 
+hyprpaper &&
+clear
+yay -S hyprlock-git
+nvim
+clear
+cd
+clear
+hyprlock 
+clear
+hyprlock 
+hyprctl reload
+hyprlock 
+clear
+reboot
+hyprlock 
+cd .config/hypr
+cd
+hyprlock 
+clear
+hyprlock 
+clear
+cmake --no-warn-unused-cli -DCMAKE_BUILD_TYPE:STRING=Release -S . -B ./build<\n>cmake --build ./build --config Release --target hypridle -j`nproc 2>/dev/null || getconf _NPROCESSORS_CONF`
+cmake --no-warn-unused-cli -DCMAKE_BUILD_TYPE:STRING=Release -S . -B ./build
+cmake --no-warn-unused-cli -DCMAKE_BUILD_TYPE:STRING=Release -S . -B ./buildcmake --build ./build --config Release --target hypridle -j`nproc 2>/dev/null || getconf _NPROCESSORS_CONF`
+clear
+hypridle
+yay -S hypridle
+clear
+yay -S hyprshot
+clear
+yay -S swaync
+clear
+swaycn
+notify-send "hola hermoso"
+yay -S hypridle
+clear
+systemctl --user start --now hypridle.service
+systemctl --user restart --now hypridle.service
+sudo pacman -S brightnessctl
+systemctl --user restart --now hypridle.service
+sudo pacman -S pipewire wireplumber pipewire-docs
+clear
+systemctl --user restart --now pipewire.service
+systemctl --user enable pipewire.service
+nvim
+swaync
+reboot
+systemctl --user enable pipewire.service
+systemctl --user enable wireplumber.service
+sudo systemctl --user enable wireplumber.service
+sudo pacman -S pipewire-pulse pipewire-alsa pipewire-jack
+N
+sudo pacman -S pipewire-pulse pipewire-alsa
+systemctl --user enable --now pipewire wireplumber
+systemctl --user status pipewire wireplumber
+sudo pacman -S rtkit
+sudo systemctl --user enable --now rtkit-daemon
+clear
+sudo pacman -Q
+clear
+nvim
+cd /etc/pacman.d
+cd mirrorlist
+sudo nvim mirrorlist
+cd ..
+sudo nvim pacman.conf
+clear
+reboor
+reboot
+sudo pacman -S xdg-desktop-portal
+clear
+yay -S hyprpolkitagent
+nvim
+clear
+reboot
+ps aux | grep hyprpolkitagent<\n>
+ps aux | grep hyprpolkitagent
+pkexec thunar
+nvim
+reboot
+pkexec thunar
+sudo pacman -Q hyprpolkitagent
+ps aux | grep hyprpolkitagent
+ps | where name == "hyprpolkitagent"
+hyprpolkitagent &
+hyprpolkitagent 
+sudo pacman -S hyprpolkitagent
+clear
+ps | where name == "hyprpolkitagent"
+hyprpolkitagent 
+hyprpolkitagent &
+command -s hyprpolkitagent
+systemctl status polkit
+sudo ls
+sudo pacman -S xdg-desktop-portal-hyprland
+clear
+mkdir .icon
+cd .icon
+git clone https://gitlab.com/Pummelfisch/future-cyan-hyprcursor.git
+clear
+ls -a
+cd future-cyan-hyprcursor/
+ls -a
+mv Future-Cyan-Hyprcursor_Theme/ ~/.icon/
+cd ..
+ls -a
+cd ..
+mv .icon ~/.icons
+ls -a
+cd .icons/
+ls -a
+hyprctl setcursor
+hyprctl reload
+sudo pacman -S hyprcursor
+clear
+cd future-cyan-hyprcursor/
+ls -a
+cd
+clear
+hyprctl reload
+hyprctl setcursor
+cd .
+ls -a
+cd .icons/
+hyprctl reload
+reboot
+nvim
+hyprctl reload
+reboot
+nvim
+hyprctl reload
+reboot
+nivm
+gsettings set org.gnome.desktop.interface cursor-theme 'Future-Cyan-Hyprcursor_Theme'
+nvim
+reboot
+dconf write /org/gnome/desktop/interface/cursor-theme "Future-Cyan-Hyprcursor_Theme"
+dconf write /org/gnome/desktop/interface/cursor-theme "'Future-Cyan-Hyprcursor_Them'"<\n>dconf write /org/gnome/desktop/interface/cursor-size 24
+export XCURSOR_THEME=Future-Cyan-Hyprcursor_Them<\n>export XCURSOR_SIZE=24<\n>export HYPRCURSOR_THEME=Future-Cyan-Hyprcursor_Them<\n>export HYPRCURSOR_SIZE=24<\n>
+hyprctl setcursor Future-Cyan-Hyprcursor_Theme
+reboot
+sudo pacman -S firefox
+firefox
+clear
+HYPRCURSOR_THEME=Future-Cyan-Hyprcursor_Them HYPRCURSOR_SIZE=24 brave<\n>
+HYPRCURSOR_THEME=Future-Cyan-Hyprcursor_Theme HYPRCURSOR_SIZE=24 brave<\n>
+dconf write /org/gnome/desktop/interface/cursor-theme "'Future-Cyan-Hyprcursor_Theme'"<\n>dconf write /org/gnome/desktop/interface/cursor-size 40
+reboot
+gsettings set org.gnome.desktop.interface cursor-theme 'Future-Cyan-Hyprcursor_Theme'<\n>gsettings set org.gnome.desktop.interface cursor-size 40<\n>
+nvim
+reboot
+gsettings set org.gnome.desktop.interface cursor-theme 'Adwaita'<\n>gsettings set org.gnome.desktop.interface cursor-size 40<\n>
+HYPRCURSOR_THEME=Future-Cyan-Hyprcursor_Theme HYPRCURSOR_SIZE=40 brave<\n>
+reboot
+ls -a
+cd .config/
+ls -a
+cd gtk-3.0/
+nvim
+reboot
+cd /usr/share/icons
+ls -a
+sudo ~/Downloads/Future-cyan-cursors.tar.gz
+ls -a
+sudo mv ~/Downloads/Future-cyan-cursors.tar.gz
+sudo mv ~/Downloads/Future-cyan-cursors.tar.gz /usr/share/icons
+ls -a
+sudo tar Future-cyan-cursors.tar.gz
+sudo tar -xvzf Future-cyan-cursors.tar.gz -C /usr/share/icons<\n>
+ls -a
+cd
+sudo pacman -S nwg-look
+cd default
+cd /usr/share/icons
+ls -a
+cd default
+ls -a
+sudo nvim index.theme
+clear
+cd .config/
+cd
+cd .config/
+ls -a
+cd BraveSoftware/
+ls -a
+cd Brave-Browser/
+ls -a
+cd
+cd .local/
+cd share
+ls -a
+reboot
+nvim
+hyprctl reload
+reboot
+clear
+nvim
+reboot
+clear
+brew install carapace zoxide atuin jq bash fzf
+clear
+z dotfile
+z dotfiles
+z config
+z .config
+cd .config
+cd .config/nvim
+cd
+cd .config/nvim
+cd
+z nvim
+la
+clear
+nvim
+nvim
+:q
+la
+echo $USER
+echo $env.USER
+clear
+starship init nu | source<\n>
+starship init nu  source
+starship init nu
+clear
+shutdown 
+z .config/
+nvim
+systemctl --user restart hypridle.service
+nvim /etc/mkinitcpio.conf
+sudo nvim /etc/mkinitcpio.conf
+mkinitcpio -P
+sudo mkinitcpio -P
+clear
+sudo pacman -S asusctl supergfxctl
+yay -S asusctl supergfxctl
+clear
+asusctl -c 60
+asusctl
+asusctl profile -P quiet
+systemctl enable --now power-profiles-daemon
+asusctl -s
+asusctl profile -P quiet
+asusctl
+asusctl -s
+systemctl enable --now power-profiles-daemon
+sudo pacman -Q power-profiles-daemon
+sudo systemctl enable --now asusd
+systemctl status asusd
+nvidia 
+lsmod | grep nvidia
+nvidia-smi
+sudo modprobe nvidia<\n>
+nvidia-settings
+nvidia-settings<\n>
+sudo pacman -Q nvidia
+sudo pacman -Q nvidia-settings
+sudo pacman -S nvidia-settings
+clear
+nvidia-settings<\n>
+sudo nvim /etc/mkinitcpio.conf
+mkinitcpio -P
+sudo mkinitcpio -P
+nvim
+reboor
+sudo nvim /etc/mkinitcpio.conf
+sudo nvim /etc/modprobe.d/nvidia.conf
+sudo mkinitcpio -P
+cat /sys/module/nvidia_drm/parameters/modeset
+sudo cat /sys/module/nvidia_drm/parameters/modeset
+clear
+nvim
+sudo pacman -S nvidia nvidia-dkms nvidia-utils egl-wayland
+sudo pacman -S libva-nvidia-driver
+clear
+sudo pacman -S xorg-xwayland wayland-protocols
+clear
+sudo mkinitcpio -P
+nvim
+sudo pacman -R optimus-manager
+nvidia--smi
+nvidia-smi
+clear
+sudo pacman -Syu
+clear
+sudo pacman -Qi
+clear
+sudo pacman -Qi nvidia
+lsmod | grep nvidia
+sudo modprobe nvidia-dms<\n>
+sudo pacman -Qi nvidia
+sudo modprobe nvidia-dkms
+sudo modprobe nvidia
+sudo pacman -S nvidia nvidia-utils
+clear
+lsmod | grep nvidia
+hyprctl monitors
+nvim
+sudo systemctl enable --now asusd
+sudo pacman -S power-profiles-daemon
+systemctl enable --now power-profiles-daemon
+asusctl profile -P quiet
+sudo pacman -Qi asusctl
+sudo systemctl enable --now asusd
+sudo find /etc/systemd /lib/systemd /usr/lib/systemd -name '*asusd*'<\n>
+sudo systemctl enable --now asusd.service
+systemctl --user enable --now asusd-user.service<\n>
+sudo systemctl status asusd.service<\n>
+systemctl --user status asusd-user.service<\n>
+journalctl --user -u asusd-user.service<\n>
+sudo systemctl enable --now asusd<\n>
+sudo systemctl disable --now power-profiles-daemon<\n>
+asusctl profile -P quiet
+notify-send "hola hermoso"
+sudo pacman -Q libnotify
+cd /etc/asusd
+cd ~/.config/rog/
+ls -a
+systemctl --user enable asusd-user.service
+systemctl --user start asusd-user.service
+asusctl -s
+asusctl -c 75
+asusctl -c 60
+asusctl armoury panel_overdrive 1
+nvim
+asusctl bios -o
+systemctl enable --now power-profiles-daemon
+clear
+asusctl profile -n
+asusctl profile -P Performance
+asusctl -c 75
+asusctl -c 60
+asusctl profile -n
+yay -S rog-control-center
+sudo pacman -Qi rog-control-center
+rog-control-center
+clear
+nvim
+reboott
+sudo pacman -S waybar
+clear
+yay -S waybar
+clear
+hyprctl reload
+nvim
+ls -a
+cd files/.dotfiles
+cd ..
+cd .dotfiles_arch/
+ls -a
+cd .config
+ls -a
+mv waybar ~/.config
+cd
+ls -a
+cd .
+cd .config
+la
+killall waybar
+waybar &
+nbim
+killall waybar
+waybar ;
+killall waybar
+sudo pacman -S ttf-hack-nerd 
+killall waybar
+sudo pacman -S python
+clear
+killall waybar
+waybar 
+z hypr
+cd .config/hypr
+la
+cd UserScripts/
+la
+ls -l
+./Weather.py
+./Weather.sh
+killall waybar
+python3 --version
+z 
+z hypr
+cd UserScripts/
+pytho3 Weather.py
+python3 Weather.py
+pip3 install requests
+sudo pacman -S python-pip
+clear
+pip3 install requests
+sudo pacman -S python-requests 
+clear
+killall waybar
+waybar
+sudo pacman -S python-pyquery 
+clear
+killall waybar
+waybar 
+sudo pacman -S base-devel fftw alsa-lib iniparser pulseaudio pkgconf
+clear
+yay -S cava
+clear
+waybar
+killall waybar
+nvim
+z .config/
+la
+cd cava
+cav
+sudo pacman -S fastfetch 
+clear
+fastfetch
+killall waybar
+waybar
+waybar
+killall waybar
+sudo pacman -S iniparser fftw3
+yay -S fftw3
+clear
+killall waybar and waybar 
+waybar
+killall waybar 
+waybara
+waybar
+nvim
+sudo pacman -S jq
+clear
+nvim
+killall waybar 
+killall waybar 
+waybar
+killall waybar 
+waybar
+clear
+z hy
+cd scripts/
+ls -l
+chmod +x WaybarCava.sh
+ls -l
+clear
+killall waybar 
+waybar
+clear
+yay -S wlogout
+clear
+waybar
+clear
+killall waybar 
+waybar
+cd ..
+cd /etc/wlogout/
+ls -a
+cd ..
+cp wlogout/ ~/.config
+cp wlogout ~/.config
+cp --recursive wlogout ~/.config
+z .
+z .config/
+cd ..
+la
+cd wlogout/
+nvim
+sudo pacman -S ttf-font-awesome 
+killall waybar 
+waybar
+killall waybar 
+killall waybar
+waybar
+killall waybar
+waybar
+killall waybar
+sudo pacman -S ttf-iosevka-nerd 
+nvim
+clear
+nvim
+waybar
+killall waybar
+waybar
+print(html_data)  # Muestra el HTML completo (si la estructura cambió)<\n>
+clear
+z hypr
+z scripts/
+la
+cd ..
+cd UserScripts/
+la
+python3 Weather.py
+python3 /home/onetwo/.config/hypr/UserScripts/Weather.py > salida.html<\n>nvim salida.html<\n>
+curl -s "https://weather.com/en-PH/weather/today/l/-33.4489,-70.6693" > salida.html<\n>nvim salida.html<\n>
+curl -s "https://weather.com/en-PH/weather/today/l/-33.4489,-70.6693" | grep -i "wind"
+curl -s "https://weather.com/en-PH/weather/today/l/-33.4489,-70.6693" | less<\n>
+curl -s "https://weather.com/en-PH/weather/today/l/-33.4489,-70.6693" | rg -i "wind"
+curl -s "https://weather.com/en-PH/weather/today/l/-33.4489,-70.6693" | rg -i "span[data-testid='Wind']<\n>"
+nvim
+nvim salida.html
+reboot
+z userscripts
+python3 /home/onetwo/.config/hypr/UserScripts/Weather.py 
+python3 /home/onetwo/.config/hypr/UserScripts/Weather.py
+killall waybar
+python3 /home/onetwo/.config/hypr/UserScripts/Weather.py
+killall waybar
+waybar
+sudo pacman -S xdg-user-dirs-gtk
+clear
+nvim
+nvim
+sudo pacman -S gnome-tweaks 
+clear
+gnome-tweaks 
+sudo pacman -R gnome-tweaks 
+bash -c "$(curl -sLo- https://superfile.netlify.app/install.sh)"
+bash -c "$(wget -qO- https://superfile.netlify.app/install.sh)"
+yay -S superfile
+spf
+nvim
+spf
+nivm
+nvim
+spf
+nvim
+spf
+2spf
+spf
+clear
+killall waybar
+waybar
+killall waybar
+waybar
+killall waybar
+sudo pacman -S btop
+clear
+btop
+nvim
+nvim
+killall swaync
+swaync
+killall swaync
+notify-send "hola hermoso"
+swaync
+killall swaync
+swaync
+killall waybar
+waybar
+nvim
+killall waybar
+waybar
+killall waybar
+waybar
+killall waybar
+waybar
+killall waybar
+waybar
+killall swaync
+notify-send "hola hermoso"
+killall swaync
+swaync
+killall waybar
+waybar
+killall swaync
+swaync
+killall swaync
+swaync
+killall swaync
+swaync
+killall swaync
+swaync
+killall swaync
+swaync
+notify-send "hola hermoso"
+killall swaync
+notify-send "hola hermoso"
+killall swaync
+swaync
+notify-send "hola hermoso"
+killall swaync
+notify-send "hola hermoso"
+swaync
+killall swaync
+notify-send "hola hermoso"
+killall swaync
+swaync
+notify-send "hola hermoso"
+killall swaync
+notify-send "hola hermoso"
+killall swaync
+swaync
+notify-send "hola hermoso"
+killall swaync
+notify-send "hola hermoso"
+swaync
+killall swaync
+notify-send "hola hermoso"
+swaync
+killall swaync
+notify-send "hola hermoso"
+killall swaync
+swaync
+notify-send "hola hermoso"
+killall swaync
+notify-send "hola hermoso"
+killall swaync
+swaync
+notify-send "hola hermoso"
+killall swaync
+notify-send "hola hermoso"
+swaync
+killall swaync
+notify-send "hola hermoso"
+killall swaync
+swaync
+notify-send "hola hermoso"
+killall swaync
+notify-send "hola hermoso"
+killall swaync
+swaync
+notify-send "hola hermoso"
+killall swaync
+notify-send "hola hermoso"
+swaync
+killall swaync
+notify-send "hola hermoso"
+swaync
+killall swaync
+notify-send "hola hermoso"
+swaync
+killall swaync
+notify-send "hola hermoso"
+swaync
+killall swaync
+notify-send "hola hermoso"
+swaync
+killall swaync
+notify-send "hola hermoso"
+killall swaync
+swaync
+notify-send "hola hermoso"
+killall swaync
+notify-send "hola hermoso"
+killall swaync
+swaync
+notify-send "hola hermoso"
+killall swaync
+notify-send "hola hermoso"
+killall swaync
+swaync
+killall swaync
+notify-send "hola hermoso"
+killall swaync
+swaync
+notify-send "hola hermoso"
+killall swaync
+notify-send "hola hermoso"
+killall swaync
+swaync
+notify-send "hola hermoso"
+killall swaync
+notify-send "hola hermoso"
+nvim 
+no
+notify-send "hola hermoso"
+la -x
+ls-x
+ls -x
+la -a
+z files
+cd .dotfiles_arch/
+sudi pacman -S stow
+sudo pacman -S stow
+clear
+cd
+ls -a
+la -x
+z c
+z config
+la -a
+cd .dotfiles_arch/
+cd wlogout/
+la -a
+cd wlogout/
+cd
+cd .config/hypr
+la -a
+cd .config/hypr
+z cofighyor
+cd .config/hypr
+cd ..
+cd
+cd files/.dotfiles
+nvim
+clear
+ls
+la
+x
+sudo pacman -S tmux
+clear
+tmux
+cd
+z files
+cd files/.dotfiles
+cd .dotfiles
+la
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+cd
+la
+la 
+cd .tmux/
+la
+cd
+cd files/.dotfiles
+la
+cp .tmux/* ~/.tmux/
+cp -r .tmux/* ~/.tmux/
+cd
+la
+cd .tmux/
+la
+clear
+cd files/.dotfiles
+cd
+cd files/.dotfiles
+la
+cp .tmux.conf ~/
+cd
+tmux new-session -d -s plugin-installation 'source ~/.tmux.conf; tmux run-shell ~/.tmux/plugins/'
+clear
+exit
+tmux
+cd files/.dotfiles
+clear
+nvim
+exit
+clear
+nvim
+exit
+nvim
+exit
+tmux
+sudo pacman -Syu
+cle
+x
+sudo pacman -S blueman nm-applet
+sudo pacman -S blueman
+x
+systemctl enable --now bluetooth.service
+blueman-manager
+sudo pacman -Syu
+blueman-manager
+killall waybar
+waybar
+killall waybar
+waybar
+wpctl status
+killall waybar
+waybar
+sudo pacman -Qi dunst
+killall waybar
+waybar
+killall waybar
+waybar
+killall waybar
+waybar
+killall waybar
+waybar
+killall waybar
+waybar
+killall waybar
+waybar
+sudo pacman -Qi nmtui
+killall waybar
+nvim
+clear
+x
+sudo pacman -Syu
+clear
+nvim
+sudo pacman -Q stow
+clear
+la
+mkdir .dotfiles/
+EDITOR=nvim
+nvim
+$env.config.buffer_editor = "nvim"
+nvim
+la
+cd .dotfiles
+la
+x
+stow .
+nvim
+mkdir .config
+la
+stow .

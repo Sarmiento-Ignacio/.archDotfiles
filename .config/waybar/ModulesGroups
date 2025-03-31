@@ -1,0 +1,88 @@
+{
+  // GROUPS
+  "group/app_drawer": {
+    "orientation": "inherit",
+    "drawer": {
+      "transition-duration": 500,
+      "children-class": "custom/menu",
+      "transition-left-to-right": true
+    },
+    "modules": [
+      "custom/menu",
+      "custom/file_manager",
+      "custom/tty",
+      "custom/browser"
+    ]
+  },
+
+  "group/motherboard": {
+    "orientation": "horizontal",
+    "modules": ["cpu", "memory", "temperature", "disk"]
+  },
+
+  "group/audio": {
+    "orientation": "inherit",
+    "drawer": {
+      "transition-duration": 500,
+      "children-class": "pulseaudio",
+      "transition-left-to-right": true
+    },
+    "modules": [
+      "pulseaudio",
+      //"wireplumber",
+      "pulseaudio#microphone"
+    ]
+  },
+
+  "group/network": {
+    "orientation": "inherit",
+    "drawer": {
+      "transition-duration": 500,
+      "children-class": "network",
+      "transition-left-to-right": true
+    },
+    "modules": ["network", "network#speed"]
+  },
+  "custom/expand": {
+    "format": "",
+    "tooltip": false
+  },
+  "group/expand": {
+    "orientation": "horizontal",
+    "drawer": {
+      "transition-duration": 600,
+      "transition-left-to-right": true,
+    },
+    "modules": ["custom/expand", "tray"]
+  },
+
+  "group/status": {
+    "orientation": "inherit",
+    "drawer": {
+      "transition-duration": 500,
+      "children-class": "custom/power",
+      "transition-left-to-right": false
+    },
+    "modules": ["custom/power", "custom/lock"]
+  },
+  "group/notify": {
+    "orientation": "inherit",
+    "drawer": {
+      "transition-duration": 500,
+      "children-class": "custom/swaync",
+      "transition-left-to-right": false
+    },
+    "modules": ["custom/swaync"]
+  },
+
+  // groups for vertical
+  "group/power": {
+    "orientation": "inherit",
+    "drawer": {
+      "transition-duration": 300,
+      "children-class": "custom/power",
+      "transition-left-to-right": false
+    },
+    "modules": ["custom/power", "custom/lock", "custom/logout", "custom/reboot"]
+  }
+}
